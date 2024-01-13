@@ -72,7 +72,7 @@ main {
   padding: 20px;
   border: 1px solid #ccc;
   border-radius: 8px;
-  width: 300px; /* Puedes ajustar según tus necesidades */
+  width: 300px;
 }
 
 .modelo img {
@@ -88,7 +88,6 @@ footer {
   border-top: 1px solid #ccc;
 }
 
-/* Media query para dispositivos con un ancho de pantalla máximo de 600px */
 @media (max-width: 768px) {
   form {
     width: 80%;
